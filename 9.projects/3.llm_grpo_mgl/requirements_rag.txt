@@ -1,0 +1,28 @@
+# RAG System Requirements for Mongolian History Dataset
+
+# Core dependencies from existing requirements.txt
+openai>=1.0.0
+requests>=2.25.0
+pyyaml>=6.0
+beautifulsoup4>=4.9.0
+langdetect>=1.0.9
+pdfminer.six>=20220319
+PyMuPDF>=1.20.0
+tqdm>=4.62.0
+
+# RAG-specific dependencies
+faiss-cpu>=1.7.4
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-mock>=3.6.0
+pytest-cov>=4.0.0
+
+# Optional: GPU support (uncomment if using GPU)
+# faiss-gpu>=1.7.4
+
+# Optional: Advanced text processing
+# sentence-transformers>=2.2.0
+# transformers>=4.20.0

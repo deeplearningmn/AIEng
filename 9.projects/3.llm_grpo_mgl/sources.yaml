@@ -1,0 +1,48 @@
+urls:
+  # Wikipedia - Mongolian History
+  - "https://mn.wikipedia.org/wiki/Монголын_түүх"
+  - "https://mn.wikipedia.org/wiki/Хүннү"
+  - "https://mn.wikipedia.org/wiki/Монгол_улс"
+  - "https://mn.wikipedia.org/wiki/Чингис_хаан"
+  - "https://mn.wikipedia.org/wiki/Юань_улс"
+  - "https://mn.wikipedia.org/wiki/Монголын_эзэнт_гүрэн"
+  - "https://mn.wikipedia.org/wiki/Өгөдэй_хаан"
+  - "https://mn.wikipedia.org/wiki/Хубилай_хаан"
+  - "https://mn.wikipedia.org/wiki/Монголын_ардын_хувьсгал"
+  - "https://mn.wikipedia.org/wiki/Богд_хаан"
+  - "https://mn.wikipedia.org/wiki/Сүхбаатар"
+  - "https://mn.wikipedia.org/wiki/Чойбалсан"
+  - "https://mn.wikipedia.org/wiki/БНМАУ"
+  - "https://mn.wikipedia.org/wiki/Монголын_соёл"
+  - "https://mn.wikipedia.org/wiki/Монгол_бичиг"
+  
+  # Government and Academic Sites
+  - "https://mongoltoli.mn/history"
+  - "https://mongoltoli.mn/culture"
+  - "https://montsame.mn/mn/category/history"
+  - "https://archives.gov.mn/history"
+  - "https://bshu.mn/history"
+  - "https://num.edu.mn/history"
+  - "https://mas.ac.mn/history"
+  
+  # Cultural and Historical Organizations
+  - "https://mongolianheritage.mn/history"
+  - "https://mongolculture.mn/tradition"
+  - "https://historymongolia.mn/ancient"
+  - "https://mongolianstudies.mn/research"
+  
+  # News and Media Historical Content
+  - "https://ikon.mn/category/history"
+  - "https://news.mn/category/culture"
+  - "https://eagle.mn/history"
+  - "https://unuudur.mn/category/history"
+  
+  # Educational Resources
+  - "https://surguuli.mn/history"
+  - "https://mongolianschool.mn/culture"
+  - "https://education.gov.mn/history"
+  
+  # Museums and Cultural Centers
+  - "https://nationalmuseum.mn/collections"
+  - "https://mongolianmuseum.mn/history"
+  - "https://culturalcenter.mn/heritage"

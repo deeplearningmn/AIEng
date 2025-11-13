@@ -1,0 +1,15 @@
+{
+  "total_prompts_generated": 50,
+  "valid_pairs": 0,
+  "rejected_pairs": 50,
+  "api_failures": 50,
+  "json_parse_errors": 0,
+  "validation_failures": 0,
+  "total_tokens_used": 0,
+  "total_api_calls": 0,
+  "avg_chosen_length": 0.0,
+  "avg_rejected_length": 0.0,
+  "avg_prompt_length": 0.0,
+  "mongolian_purity": 0.0,
+  "processing_time": 23.41597819328308
+}

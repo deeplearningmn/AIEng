@@ -1,0 +1,1 @@
+# Tests package for Mongolian History Generator

@@ -1,0 +1,18 @@
+{
+  "processing_date": "2025-11-04T12:21:48.525293",
+  "output_file": "data/mongolian_history_unified.jsonl",
+  "statistics": {
+    "files_processed": 6,
+    "total_entries": 136,
+    "duplicates_removed": 92,
+    "invalid_entries": 0,
+    "final_entries": 44
+  },
+  "sample_periods": {
+    "XIII зуун": 26,
+    "XVII-XIX зуун": 6,
+    "XX зуун": 5,
+    "Орчин үе": 5,
+    "Эртний үе": 2
+  }
+}
